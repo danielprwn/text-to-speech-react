@@ -1,10 +1,9 @@
 # Text to Speech Web App
 
-✔ Ability to searching and filtering world countries.
-✔ Light and dark mode switch.
+✔ Ability to convert the entered text into speech.
 
 ## Technologies
-✅ HTML ✅ CSS ⚛ React JS ✅ Firebase
+✅ HTML ✅ CSS ⚛ React JS
 
 
 Download the repository and run it locally:
